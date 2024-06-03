@@ -1,10 +1,13 @@
 # My HackerRank Work 🚀
 
-### Hi friends, Welcome to my HackerRankSolution.
+### Hi friends Welcome to my HackerRankSolution Repository.
 
-This is a place for my work on HackerRank. For six months, I spent two hours every day learning Python and SQL. It was hard work but I learned so much. 💪
+This is a place for my work on HackerRank. For six months, I spent 4 hours every day learning Python and SQL and solving one problem.
 
-The best part is here you will get to know how one problem you can solve in many ways and most efficient manner.
+Why 4 hours? Because I developed and approached one problem in many ways, not just one way.
+I explored multiple solutions and aimed for the most efficient manner. It was hard work, but I learned so much. 💪
+
+The best part is here you will get to know how one problem can be solved in many ways and the most efficient manner. 🧠✨
 
 In this folder, you can see files with my solutions. The Python file has all the Python and sql problems I solved using Python language.🐍
 

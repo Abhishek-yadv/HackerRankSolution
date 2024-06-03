@@ -1,6 +1,6 @@
 # My HackerRank Work 🚀
 
-### Hi friends!!!
+### Hi friends, Welcome to my HackerRankSolution.
 
 This is a place for my work on HackerRank. For six months, I spent two hours every day learning Python and SQL. It was hard work but I learned so much. 💪
 

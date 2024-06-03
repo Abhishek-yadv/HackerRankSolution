@@ -1,6 +1,6 @@
 # My HackerRank Work 
 
-### Hi friends, Welcome to my HackerRankSolution Repository!
+### Hi friends, Welcome to my HackerRank Solution Repository!
 
 This is a place for my work on HackerRank. For six months, I spent 4 hours every day learning Python and SQL and solving one problem.
 

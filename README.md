@@ -8,7 +8,7 @@
 
 🌟 The best part is here you will get to know how one problem can be solved in many ways and the most efficient manner. 🧠✨
 
-📁 In this folder, you can see files with my solutions. The Python file has many problems I solved using the Python language. 🐍
+📁 In this folder, you can see files with my solutions. I solved many problems with the Python file using the Python language. 🐍
 
 🗄️ The SQL file has database questions I answered with SQL. 🗄️
 

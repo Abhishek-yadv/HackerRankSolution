@@ -14,7 +14,7 @@
 
 💬 I wrote comments in the code to explain what I did. My coding skills got better over time. You can see the changes in the "History" part. 📈
 
-🎓 This was a big learning time for me. I struggled sometimes but kept working hard. 🔄
+🎓 This was a big learning time for me. I struggled sometimes but kept working hard.🔄
 
 ❓ I hope you can learn from my solutions too. Let me know if you have any questions!
 
